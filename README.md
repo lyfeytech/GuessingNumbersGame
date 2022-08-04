@@ -1,3 +1,3 @@
-#1 Project 
+# Golang 1 Project 
 
-Guessing Numbers Game
+## Guessing Numbers Game
