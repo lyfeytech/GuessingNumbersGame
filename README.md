@@ -14,14 +14,14 @@ go version
 
 ## Code 
 
-```python
+```golang
 import( 
     "fmt" 
     "math/rand"
     "time"
 )
 
-# to see if the numbers match
+# to see whether the numbers match
 func isMatching(secretNumber, guess int) bool
 
 # to retain the user's input
