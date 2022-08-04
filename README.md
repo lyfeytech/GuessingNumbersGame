@@ -1,6 +1,6 @@
 # #1 Guessing Numbers Game
 
-Guessing Numbers Game is a Golang project to deal with the computer in guessing random numbers. 
+Guessing Numbers Game is a Golang project which deals with the computer in guessing random numbers. 
 
 If the guess is incorrect, then the first player tells the second player whether the guess was too high or too low. The game loops on, until the guess is correct.
 
